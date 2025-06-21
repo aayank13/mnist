@@ -1,1 +1,3 @@
 # Mnist Dataset
+
+Using dcgan
