@@ -1,7 +1,6 @@
 # app.py
 
 import streamlit as st
-import matplotlib.pyplot as plt
 from generator import generate_images
 
 st.set_page_config(page_title="Digit Generator (DCGAN)", layout="centered")
